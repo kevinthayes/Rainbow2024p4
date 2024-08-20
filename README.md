@@ -7,5 +7,5 @@ Green
 Blue
 Indigo
 Violet
-and a cute little Teddy Bear
-and a another cute little Teddy Bear
+and two cute little Teddy Bears
+
